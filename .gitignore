@@ -2,7 +2,6 @@ __pycache__
 */__pycache__
 blender
 .idea/
-.vscode/
 output/
 debug/
 resources/cctextures*
@@ -17,7 +16,6 @@ resources/pix3d
 resources/front_3D/3D_front_mapping_generated.csv
 blenderproc/external/vhacd
 *.blend1
-.vscode
 *.pyc
 *.swp
 docs/build/
@@ -26,3 +24,6 @@ docs/source/*rst
 docs/source/images/
 docs/source/examples/
 docs/source/*md
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
